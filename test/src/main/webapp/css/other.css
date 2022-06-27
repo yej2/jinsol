@@ -1,0 +1,35 @@
+@charset "UTF-8";
+
+
+.full{
+	border: solid #efefef;
+	width: 40%;
+	padding: 15px;
+    border-radius: 15px;
+}
+
+.center{
+	text-align: center;
+}
+
+.margins{
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+/* 첫번째 표*/
+.tg  {border-collapse:collapse;border-spacing:0;width:100%;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-uqo3{background-color:#efefef;text-align:center;vertical-align:top}
+.tg .tg-baqh{text-align:center;vertical-align:top}
+
+/* 두번째 표 */
+.tg2  {border-collapse:collapse;border-spacing:0;width:100%;}
+.tg2 td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg2 th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg2 .tg2-uqo2{background-color:#efefef;text-align:center;vertical-align:top}

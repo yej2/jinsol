@@ -1,0 +1,29 @@
+@charset "UTF-8";
+
+.full{
+	border: solid #efefef;
+	width: 40%;
+	padding: 15px;
+    border-radius: 15px;
+}
+
+.ta{
+	width:100%
+}
+
+.td2{
+	padding-top: 10px;
+	
+}
+
+.mar{
+	margin-top: 10px;
+}
+.small{
+	font-size: 10pt;
+}
+.line{
+            border-bottom: 2px solid #efefef;
+            margin-bottom: 10px;
+    		margin-top: 10px;
+}

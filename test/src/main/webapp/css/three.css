@@ -1,0 +1,141 @@
+@charset "UTF-8";
+
+        .back{
+            float: right;
+        }
+
+        body{
+            width: 1100px;
+            background-color: #e4e4e4;
+        }
+
+        .full{
+            display: flex;
+            flex-direction: row;
+            width: 1100px;
+        }
+        .side1{
+            width: 300px;
+            background-color: rgb(60, 85, 156);
+            color: white;
+        }
+        .side1_1{
+        	display: flex;
+            flex-direction: row;
+        }
+        .step{
+        	flex-grow: 1;
+        	display: flex;
+        	justify-content: center;
+        }
+        .keep{
+        	background-color: rgb(45 65 122);
+        	flex-grow: 1;
+        	display: flex;
+        	justify-content: center;
+        }
+        
+        .btnfree{
+        	outline: none;
+        	border:none;
+        	background-color:transparent;
+        	color:white;
+        	padding: 10px;
+    		font-size: 12pt
+        }
+        .side2{
+            width: 800px;
+            background-color: white;
+            padding: 20px;
+        }
+        .one_re, .two_re, .three_re, .four_re{
+            display: flex;
+            flex-direction: row;
+            justify-content: space-between;
+        }
+
+        .ones, .twos, .fours, .fives{
+            padding: 10px;
+        }
+        
+        .threes{
+        	padding: 10px;
+        	color: rgb(60, 85, 156);
+        	background-color: white;
+        }
+
+         .color{
+            display: flex;
+            flex-direction: row;
+            background-color: rgb(60, 85, 156);
+            margin-top: 10px;
+    		margin-bottom: 10px;
+    		color: white;
+    		text-align : center;    
+        }
+        .color1{
+            flex-grow: 1;
+        }
+        .color2{
+            flex-grow: 1;
+        }
+        .color3{
+            flex-grow: 1;
+        }
+
+        .period{
+            display: flex;
+            flex-direction: row; 
+        }
+        .line{
+            border-bottom: 2px solid black;
+            margin-bottom: 10px;
+    		margin-top: 10px;
+        }
+        .box{
+            display: flex;
+            flex-direction: row;
+            flex-wrap: wrap;
+            margin-top: 10px;
+		    margin-bottom: 10px;
+		    background-color: #efefef;
+		    padding: 25px;
+        }
+        
+        .box_one{
+        	margin-right: 27px;
+        }
+        .box_three{
+        	margin-top: 20px;
+        }
+        
+        .ta{
+        	margin-top: 15px;
+    		margin-bottom: 15px;
+        }
+        
+        .go{
+        	margin-bottom: 15px;
+        	font-size: 10pt;
+    		color: blue;
+        }
+        .go1{
+        	font-size: 10pt;
+    		color: blue; 
+        }
+        .go2{
+        	margin-bottom: 15px;
+        	font-size: 10pt;
+    		color: blue;  
+        }
+        
+        .top_margin{
+       		margin-top: 10px;
+        }
+        .red{
+        	color: red;
+        }
+        
+        .yel{
+        	color: yellow;
+        }
